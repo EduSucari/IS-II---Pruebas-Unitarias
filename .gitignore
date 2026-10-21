@@ -1,0 +1,13 @@
+# Entorno virtual
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de pytest
+.pytest_cache/
+
+# Archivos de cobertura
+.coverage
+htmlcov/
